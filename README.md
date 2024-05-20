@@ -7,6 +7,6 @@
 - ⚡ Fun fact: I like music
 
 <!---
-TMiller0019/TMiller0019 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+TMiller0019/Info is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
